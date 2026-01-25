@@ -23,28 +23,40 @@ Averiguar o cumprimento de prazos (**SLA**) e o monitoramento de qualidade nas e
 
 ## 2. Análises
 
-### 2.1 Gerais
+### 2.1 Análises Gerais
 - Entregas com **1 (uma) ou mais ocorrências registradas** superaram as entregas feitas no prazo em **3,27%**.
-- A transportadora com o **melhor índice de entrega no prazo**, considerando entregas com ocorrência(s), é:
-  - **BrasilFlex Logística** — **55,32%** no prazo / **44,68%** fora do prazo.
-- Regiões com **maior concentração de ocorrências**:
-  - **Sudeste** — grandes cidades como São Paulo e Rio de Janeiro
+- A transportadora com o **menor tempo médio de entrega** é:
+  - **Sudeste e Cargas Logística** — **5d5h**.
+- As regiões com **maiores concentrações de ocorrências** foram:
+  - **Sudeste** — cidades do interior de São Paulo e Rio de Janeiro
   - **Nordeste** — litoral nordestino
-  - **Norte** — destaque para Belém/PA
+  - **Norte** — principalmente Belém/PA
 
 ### 2.2 Entregas
-- Em **2023**, o número de entregas realizadas superou em **4,11%** o volume registrado em **2024**.
-- No **1º trimestre de 2024**, houve uma queda de **15,56%** no número de entregas realizadas em comparação ao mesmo período do ano anterior.
-- O **maior número de entregas realizadas em um único mês** foi de **59 entregas**.
+- No ano de **2024**, o número de entregas realizadas **decaiu 3,95%** em comparação com **2023**.
+- No **1º trimestre de 2024**, foi registrada uma queda de **15,56%** no número de entregas realizadas em comparação ao mesmo período do ano anterior.
+- O **maior número de entregas registradas em um único mês** foi de **59 entregas**.
 
 ### 2.3 Ocorrências
-- O tipo de ocorrência mais frequente foi **"Extravio"**, totalizando **147 ocorrências**.
+- O tipo de ocorrência mais frequente é **"Extravio"**, com **147 ocorrências**.
   - Transportadoras com maior número de registros:
     - **Litoral Sul Logística** — 17 ocorrências
     - **NorteVeloz Cargas** — 17 ocorrências
-- Em **2024**, as entregas com ocorrências apresentaram uma **redução de 1,42%** em relação a 2023.
-  - Esse comportamento é esperado devido à queda no volume total de entregas.
-- Ocorrências do tipo **"Avaria"** apresentaram maior discrepância no **1º trimestre de 2023**, com **20 ocorrências**.
-  - Esse período também apresentou a **menor taxa de entregas no prazo**: **21,52%**.
-- O **3º trimestre de 2023** foi o período com o **maior percentual de entregas com ocorrências**, atingindo **38,67%**.
+- Em **2024**, as entregas com ocorrências tiveram uma **diminuição de 1,42%** em relação ao ano anterior.
+  - Esse comportamento é esperado devido à queda no volume de entregas realizadas.
+- O período com a **menor taxa de entregas realizadas no prazo** foi o **1º trimestre de 2023**, com **21,52%** das entregas.
+  - Nesse mesmo período, foi registrado o **maior número de ocorrências do tipo "Avaria"**, totalizando **21 ocorrências**.
+- O **3º trimestre de 2023** foi o período com o **maior número de entregas com ocorrências**, atingindo **38,67%**.
+  - Apesar disso, o **tempo médio de entrega** nesse período foi apenas **3 horas maior** que a média de todo o período analisado.
+
+### 2.4 Transportadoras
+- A transportadora com o **melhor índice de entregas no prazo por entregas com ocorrência(s) (EPEC)** é:
+  - **BrasilFlex Logística** — **1,29**
+
+- Transportadoras consideradas na análise:
+  - **Atlantic Cargo Logística**
+  - **Centro Oeste Transportes**
+  - **NorteVeloz Cargas**
+  - **RapidSul Transportes**
+
   - Apesar disso, o **tempo médio de entrega** nesse período foi apenas **2 horas maior** que a média de todo o período analisado.
