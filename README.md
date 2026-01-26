@@ -58,6 +58,6 @@ Averiguar o cumprimento de prazos (**SLA**) e o monitoramento de qualidade nas e
 
 ## 3. Conclusões
 
-## 3.1. A existência de ocorrências **não é o fator mais impactante** no aumento do tempo médio de uma entrega. Assim, é possível que as operações internas das transportadoras são fatores mais agravantes nas demoras das entregas.
-## 3.2. Em períodos onde as ocorrências do tipo "Avaria" são muito frequentes que as demais, a tendência é de que a **quantidade de entregas realizadas no prazo seja menor.**
-## 3.3. Existe a possibilidade de transportadoras sediadas em cidades **mais distantes do local de destino** cumpram suas entregas no prazo mais do que transportadora localizadas próximas ao local destino.
+### 3.1. A existência de ocorrências **não é o fator mais impactante** no aumento do tempo médio de uma entrega. Assim, é possível que as operações internas das transportadoras são fatores mais agravantes nas demoras das entregas.
+### 3.2. Em períodos onde as ocorrências do tipo "Avaria" são muito frequentes que as demais, a tendência é de que a **quantidade de entregas realizadas no prazo seja menor.**
+### 3.3. Existe a possibilidade de transportadoras sediadas em cidades **mais distantes do local de destino** cumpram suas entregas no prazo mais do que transportadora localizadas próximas ao local destino.
